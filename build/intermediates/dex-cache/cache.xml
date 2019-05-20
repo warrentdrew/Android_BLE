@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Jiahuan Yang\Desktop\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.android.support\support-v13\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="5d4bccb885c8a89d066ecb6c4addb553a99a79a2">
+        <dex dex="C:\Users\Jiahuan Yang\Desktop\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_46c61fb1be2231929090dc0d2344c63a9ae8309d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Jiahuan Yang\Desktop\BluetoothLeGatt\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="628cc1029a70acaec806b885034925f7b554b9a8">
+        <dex dex="C:\Users\Jiahuan Yang\Desktop\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_8df6e2762447c954680b3d8263560d302e746b90\classes.dex" />
+    </item>
+    <item
+        jar="F:\Program\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\Users\Jiahuan Yang\Desktop\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.0.0_74da2c6e912d2df2378563f27f9f68d6be357726\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Jiahuan Yang\Desktop\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="1ccbc26be2c465c622a48310e8092241b01abe80">
+        <dex dex="C:\Users\Jiahuan Yang\Desktop\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.0.0_82c12b0a4c1dd3ed6a260e90ff41317ae5ed689a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Jiahuan Yang\Desktop\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\Jiahuan Yang\Desktop\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.0.0_0683188762bd65a87240701dc606ae27e14b7824\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Jiahuan Yang\Desktop\BluetoothLeGatt\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="79e88640b9516a7f604277d549c050850c2ff8f7">
+        <dex dex="C:\Users\Jiahuan Yang\Desktop\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_e0f21bd275d7df00f00635d450464e4913fed723\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Jiahuan Yang\Desktop\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Users\Jiahuan Yang\Desktop\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_5f9ec66d53e2831a76a1dad38b835d54ef03d6f8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Jiahuan Yang\Desktop\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.android.support\support-v13\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="bb0ac3f3ee2d71854501cc28e52cc84a20209b41">
+        <dex dex="C:\Users\Jiahuan Yang\Desktop\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v13-23.0.0_79b1f458d5cc473df0cd07c80c40206f6df630ec\classes.dex" />
+    </item>
+
+</items>
